@@ -1,8 +1,9 @@
-import { Setting } from '../common/Setting';
-import Layout from '../components/Layout';
-import { pages } from '../data/pages';
+import React from 'react'
+import { Setting } from '../common/Setting'
+import Layout from '../components/Layout'
+import { pages } from '../data/pages'
 
-const IndexPage = () => (
+const IndexPage = (): JSX.Element => (
   <Layout>
     <div id='Index'>
       <div id='MainTopic'>
@@ -18,6 +19,6 @@ const IndexPage = () => (
       </div>
     </div>
   </Layout>
-);
+)
 
-export default IndexPage;
+export default IndexPage
