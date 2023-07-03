@@ -1,10 +1,7 @@
-# SC2022
+# SC2023
 
-情報処理安全確保支援士試験(2022年)用の学習用サイト。  
-Next.jsで作成してみた。  
-
-もともと<https://koko-campus.org>にあったものの一部をNext.jsで置き換えて独立させた。  
-※ 元のソースコードは<https://github.com/osawa-koki/koko-campus.net>(private)  
+情報処理安全確保支援士試験(2023年)用の学習用サイト。  
+[SC2022](https://github.com/osawa-koki/SC2022)より。  
 
 ## 実行方法
 
@@ -21,4 +18,4 @@ yarn build
 | モジュール | バージョン |
 | ---- | ---- |
 | Windows | 11 Home |
-| Node.js | 19.3.0 |
+| Node.js | v18.12.1 |

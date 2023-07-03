@@ -31,7 +31,7 @@ const Layout = ({ children, title = default_title, progress }: Props) => (
     <main>
       {children}
     </main>
-    <footer>🥺 SC2022 (情報処理安全確保支援士試験対策) 🥺</footer>
+    <footer>🥺 SC2023 (情報処理安全確保支援士試験対策) 🥺</footer>
   </div>
 );
 

@@ -40,7 +40,7 @@ const IndexPage = () => {
         if (isProd) {
           setHtml(text);
         } else {
-          setHtml(text.replaceAll('/SC2022/textbook.img', '/textbook.img'));
+          setHtml(text.replaceAll('/SC2023/textbook.img', '/textbook.img'));
         }
       });
       await fetch(`${prefix}/textbook.script/${title}.js`)
