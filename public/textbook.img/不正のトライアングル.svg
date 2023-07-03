@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="不正のトライアングル.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     inkscape:export-filename="C:\Program Files\XAMPP\htdocs\koko-campus.org\subjects\情報処理安全確保支援士試験\pics\不正のトライアングル.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7500982043"
+         inkscape:cx="334.622851462811"
+         inkscape:cy="348.621018555877"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <path
+             sodipodi:type="star"
+             style="fill:none;stroke:#0000ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+             id="path847"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="312.311737060547"
+             sodipodi:cy="250.955139160156"
+             sodipodi:r1="176.097885131836"
+             sodipodi:r2="88.048942565918"
+             sodipodi:arg1="0.523598775598299"
+             sodipodi:arg2="1.5707963267949"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 464.816979137431,339.004081726074 h -305.010484153768 l 152.505242076884,-264.1468276977537 z"
+             inkscape:transform-center-y="-44.0244603289083"
+             inkscape:transform-center-x="6.31431618103306e-06" />
+        <ellipse
+             style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+             id="path951"
+             cx="311.527496337891"
+             cy="62.1659088134766"
+             rx="96.6540145874023"
+             ry="46.6605567932129" />
+        <ellipse
+             style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+             id="path951-0"
+             cx="129.313781738281"
+             cy="343.28759765625"
+             rx="96.6540145874023"
+             ry="46.6605567932129" />
+        <ellipse
+             style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+             id="path951-3"
+             cx="487.936157226562"
+             cy="343.28759765625"
+             rx="96.6540145874023"
+             ry="46.6605567932129" />
+        <text
+             xml:space="preserve"
+             style="font-size:48px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="264.183746337891"
+             y="79.3221588134766"
+             id="text2676"><tspan
+                 sodipodi:role="line"
+                 id="tspan2674"
+                 x="264.183746337891"
+                 y="79.3221588134766">機会</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:48px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="80.8450317382812"
+             y="360.35009765625"
+             id="text3340"><tspan
+                 sodipodi:role="line"
+                 id="tspan3338"
+                 x="80.8450317382812"
+                 y="360.35009765625">動機</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:48px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="415.842407226562"
+             y="360.44384765625"
+             id="text3718"><tspan
+                 sodipodi:role="line"
+                 id="tspan3716"
+                 x="415.842407226562"
+                 y="360.44384765625">正当化</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:116.437px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;stroke:#ffffc6;stroke-width:1.16437;stroke-opacity:1"
+             x="191.093948364258"
+             y="251.394897460938"
+             id="text7366"><tspan
+                 sodipodi:role="line"
+                 id="tspan7364"
+                 x="191.093948364258"
+                 y="251.394897460938"
+                 style="stroke:#ffffc6;stroke-width:1.16437;stroke-opacity:1">不正</tspan></text>
+    </g>
+</svg>

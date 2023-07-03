@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="ver1.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     inkscape:export-filename="C:\Program Files\XAMPP\htdocs\koko-campus.org\subjects\情報処理安全確保支援士試験\pics\ver1.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7501"
+         inkscape:cx="275.96"
+         inkscape:cy="241.97"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs2">
+        <filter
+             inkscape:collect="always"
+             style="color-interpolation-filters:sRGB"
+             id="filter999"
+             x="-0.15584"
+             y="-0.32501"
+             width="1.3117"
+             height="1.65">
+            <feGaussianBlur
+                 inkscape:collect="always"
+                 stdDeviation="32.7189981986785"
+                 id="feGaussianBlur1001" />
+        </filter>
+    </defs>
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <path
+             sodipodi:type="star"
+             style="opacity:0.592721;fill:lime;fill-opacity:1;stroke:#ffffc6;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:black"
+             id="path3187"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="47.994"
+             sodipodi:cy="353.29"
+             sodipodi:r1="413.64"
+             sodipodi:r2="206.82"
+             sodipodi:arg1="0"
+             sodipodi:arg2="1.0472"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 461.63,353.29 -620.46,358.22 0,-716.4428 z"
+             inkscape:transform-center-x="-79.575"
+             transform="matrix(0.7695,0,0,0.02347,246.49,342.33)" />
+        <ellipse
+             style="opacity:0.792028;mix-blend-mode:normal;fill:#ffff00;fill-opacity:1;stroke:#ffffc6;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;filter:url(#filter999);stop-color:#000000"
+             id="path843"
+             cx="290.628601074219"
+             cy="203.306716918945"
+             rx="259.965972900391"
+             ry="124.650344848633"
+             transform="matrix(0.886620057538918,0,0,0.886620057538918,44.9498830042532,34.3719996390207)" />
+        <text
+             xml:space="preserve"
+             style="font-size:144px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="105.979583740234"
+             y="248.635940551758"
+             id="text2713"><tspan
+                 sodipodi:role="line"
+                 id="tspan2711"
+                 x="105.979583740234"
+                 y="248.635940551758">ver1<tspan
+     style="font-size:64px"
+     id="tspan7717">...</tspan></tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="125.31"
+             y="347.29"
+             id="text2435"><tspan
+                 sodipodi:role="line"
+                 id="tspan2433"
+                 x="125.31"
+                 y="347.29">情報処理安全確保支援士試験</tspan></text>
+    </g>
+</svg>

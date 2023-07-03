@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="mail.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="1.5002"
+         inkscape:cx="336.96"
+         inkscape:cy="204.97"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <g
+             id="g23971">
+            <rect
+                 id="my_mua1"
+                 class="computer"
+                 width="52.395"
+                 height="32.751"
+                 x="614.76"
+                 y="598.77"
+                 transform="matrix(1,0,-0.80463,0.59378,0,0)"
+                 style="stroke-width:3.77951" />
+            <rect
+                 id="my_mua0"
+                 class="computer"
+                 width="52.66"
+                 height="31.996"
+                 x="132.54"
+                 y="323.59"
+                 style="stroke-width:3.7795" />
+            <rect
+                 id="my_mua2"
+                 class="computer"
+                 width="42.659"
+                 height="22.663"
+                 x="137.71"
+                 y="328.67"
+                 style="fill:#dcffff;fill-opacity:1;stroke-width:3.7795" />
+        </g>
+        <g
+             id="g23982">
+            <rect
+                 id="my_mua1-9"
+                 class="computer"
+                 width="52.395"
+                 height="32.751"
+                 x="915.37"
+                 y="598.78"
+                 transform="matrix(1,0,-0.80463,0.59378,0,0)"
+                 style="stroke-width:3.77954" />
+            <rect
+                 id="my_mua0-3"
+                 class="computer"
+                 width="52.66"
+                 height="31.996"
+                 x="433.16"
+                 y="323.59"
+                 style="stroke-width:3.7795" />
+            <rect
+                 id="my_mua2-8"
+                 class="computer"
+                 width="42.659"
+                 height="22.663"
+                 x="438.33"
+                 y="328.67"
+                 style="fill:#dcffff;fill-opacity:1;stroke-width:3.7795" />
+        </g>
+        <g
+             id="g23986">
+            <rect
+                 style="opacity:1;fill:#ffffbc;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 id="rect1175"
+                 width="265.3"
+                 height="193.31"
+                 x="23.997"
+                 y="47.994" />
+            <rect
+                 style="opacity:1;fill:#ddffd9;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 id="rect1175-4"
+                 width="265.3"
+                 height="193.31"
+                 x="309.3"
+                 y="47.994" />
+        </g>
+        <g
+             id="g24098">
+            <rect
+                 style="opacity:1;fill:#675eff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                 id="rect18481"
+                 width="38.414"
+                 height="45.72"
+                 x="485.95"
+                 y="141.64" />
+            <g
+                 aria-label="メール
+ボックス"
+                 id="text19497"
+                 style="font-size:9.1784px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;stroke-width:0.6556"
+                 transform="translate(0,2)">
+                <path
+                     d="m 488.51,157.88 q 2.19,-1.18 3.15,-2.69 -1,-0.61 -1.75,-0.93 l 0.43,-0.79 q 0.79,0.36 1.79,0.93 0.5,-1.04 0.86,-2.79 l 0.86,0.28 q 0.25,0.1 0,0.22 -0.47,1.79 -0.97,2.76 0.86,0.57 1.4,1 l -0.47,0.83 q -0.72,-0.61 -1.36,-1.04 -1.33,1.79 -3.16,2.9 z"
+                     id="path21637" />
+                <path
+                     d="m 497.04,155.55 v -0.79 h 8 v 0.79 z"
+                     id="path21639" />
+                <path
+                     d="m 511.02,157.45 q 1.58,-0.61 2.91,-2.44 l 0.5,0.68 q -1.36,1.87 -3.44,2.69 l -0.29,0.15 -0.57,-0.43 0.1,-0.18 v -5.78 h 0.75 q 0.33,0.1 0.1,0.29 z m -4.8,0.97 q 1.79,-1.72 1.79,-4.27 v -1.61 h 0.76 q 0.32,0.1 0.1,0.29 v 1.29 q 0,3.01 -1.9,4.76 z"
+                     id="path21641" />
+                <path
+                     d="m 493.96,167.38 q 1.29,1.36 1.93,2.51 l -0.78,0.53 q -0.76,-1.32 -1.83,-2.47 z m -1.72,-1.54 h 3.3 v 0.78 h -3.3 v 4.99 h -0.83 v -4.99 h -3.22 v -0.78 h 3.22 v -2.01 h 0.76 q 0.39,0.1 0.1,0.28 z m -1.9,1.97 q 0.21,0.18 -0.15,0.25 -0.53,1.18 -1.36,2.47 l -0.79,-0.43 q 0.9,-1.29 1.51,-2.72 z m 4.34,-2.37 q -0.65,-0.68 -1.19,-1.11 l 0.43,-0.43 q 0.61,0.47 1.19,1.07 z m 1,-0.5 q -0.65,-0.72 -1.18,-1.18 l 0.46,-0.4 q 0.61,0.47 1.19,1.15 z"
+                     id="path21643" />
+                <path
+                     d="m 504,166.66 q -0.25,2.33 -1.29,3.37 -1.04,1.04 -2.73,1.65 l -0.46,-0.68 q 1.65,-0.54 2.58,-1.47 1,-1.01 1.14,-3.41 l 0.76,0.25 q 0.32,0.11 0,0.29 z m -3.05,1.29 q -0.43,-0.97 -0.86,-1.61 l 0.68,-0.36 q 0.54,0.68 0.93,1.61 z m -1.83,0.54 q -0.43,-1.01 -0.89,-1.69 l 0.71,-0.36 q 0.5,0.69 0.9,1.65 z"
+                     id="path21645" />
+                <path
+                     d="m 512.85,166.12 q -0.68,3.91 -4.48,5.6 l -0.64,-0.69 q 3.51,-1.43 4.23,-4.94 h -2.87 q -0.83,1.36 -1.72,2.18 l -0.72,-0.46 q 1.87,-1.69 2.4,-3.95 l 0.83,0.29 q 0.21,0.11 -0.1,0.22 -0.15,0.46 -0.4,0.93 h 2.58 l 0.33,-0.18 0.64,0.64 q 0.25,0.25 -0.11,0.36 z"
+                     id="path21647" />
+                <path
+                     d="m 519.99,167.77 q 1.54,1.18 3.05,2.73 l -0.72,0.61 q -1.51,-1.58 -2.91,-2.66 -1.39,1.51 -3.19,2.69 l -0.68,-0.61 q 3.8,-2.47 4.88,-4.95 l -3.91,0.26 -0.11,-0.87 4.16,-0.17 0.43,-0.11 0.58,0.57 q 0.25,0.25 -0.15,0.32 -0.68,1.19 -1.43,2.19 z"
+                     id="path21649" />
+            </g>
+        </g>
+        <g
+             id="g24087">
+            <path
+                 id="path21710"
+                 style="opacity:1;fill:#ffff00;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000;fill-opacity:1"
+                 inkscape:transform-center-y="-2.0347"
+                 d="m 149.26,179.29 -13.33,-11.24 31.16,-23.45 z"
+                 inkscape:transform-center-x="-0.75344" />
+            <path
+                 id="path21710-8"
+                 style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-y="-4.2047"
+                 d="m 154.86,298.04 -16.14,6.62 -6.37,-38.47 z"
+                 inkscape:transform-center-x="-1.6284" />
+            <path
+                 id="path21710-1"
+                 style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-y="0.8878"
+                 d="m 264.93,110.25 -1.22,-17.408 38.52,6.043 z"
+                 inkscape:transform-center-x="-6.0134" />
+            <path
+                 id="path21710-1-3"
+                 style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-y="-2.5722"
+                 d="m 405.44,106.81 4.51,-16.849 34.46,18.249 z"
+                 inkscape:transform-center-x="-4.9884" />
+            <path
+                 id="path21710-1-4"
+                 style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-y="6.2353"
+                 d="m 447.5,258.78 17.44,0.39 -9.57,37.8 z"
+                 inkscape:transform-center-x="-0.28344" />
+            <path
+                 id="path21710-1-9"
+                 style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.15155;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-y="5.0903"
+                 d="m 460.21,138.4 16.92,4.23 -17.66,34.77 z"
+                 inkscape:transform-center-x="-2.6934" />
+        </g>
+        <g
+             id="g24079">
+            <g
+                 id="g24000">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913"
+                     cx="122.68"
+                     cy="211.14"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MSA"
+                     id="text3119"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     transform="translate(-40)">
+                    <path
+                         d="m 151.58,222.63 h -3.06 l -0.45,-14.33 -0.2,-5.5 -1.07,3.2 -3.39,9.14 h -2.16 l -3.24,-8.79 -1.07,-3.55 -0.1,5.75 -0.41,14.08 h -2.95 l 1.13,-22.97 h 3.71 l 3.09,8.64 1,2.92 0.97,-2.92 3.25,-8.64 h 3.81 z"
+                         id="path4636" />
+                    <path
+                         d="m 169.97,216.41 q 0,1.63 -0.67,2.86 -0.67,1.23 -1.86,2.06 -1.2,0.81 -2.89,1.21 -1.67,0.41 -3.69,0.41 -0.91,0 -1.83,-0.1 -0.89,-0.1 -1.74,-0.18 -0.82,-0.11 -1.56,-0.25 -0.74,-0.14 -1.34,-0.29 v -3.03 q 1.32,0.49 2.96,0.78 1.65,0.28 3.74,0.28 1.51,0 2.57,-0.23 1.07,-0.25 1.74,-0.7 0.68,-0.48 0.98,-1.15 0.32,-0.67 0.32,-1.53 0,-0.93 -0.53,-1.58 -0.51,-0.67 -1.35,-1.18 -0.85,-0.52 -1.94,-0.95 -1.07,-0.44 -2.19,-0.89 -1.13,-0.46 -2.22,-0.99 -1.07,-0.54 -1.91,-1.26 -0.85,-0.74 -1.37,-1.72 -0.51,-0.99 -0.51,-2.34 0,-1.18 0.49,-2.32 0.49,-1.15 1.53,-2.02 1.03,-0.9 2.65,-1.45 1.64,-0.54 3.89,-0.54 0.58,0 1.24,0 0.69,0.1 1.38,0.16 0.7,0.1 1.37,0.21 0.68,0.12 1.26,0.26 v 2.82 q -1.35,-0.39 -2.71,-0.58 -1.35,-0.21 -2.61,-0.21 -2.69,0 -3.96,0.89 -1.27,0.9 -1.27,2.41 0,0.93 0.51,1.6 0.53,0.67 1.38,1.2 0.84,0.52 1.91,0.96 1.09,0.42 2.22,0.88 1.12,0.46 2.19,1 1.09,0.55 1.94,1.3 0.84,0.74 1.35,1.74 0.53,1.01 0.53,2.38 z"
+                         id="path4638" />
+                    <path
+                         d="m 191.85,222.63 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.25 l 7.63,-22.97 h 4.29 z m -5.9,-7.8 -3.89,-12.29 -3.88,12.29 z"
+                         id="path4640" />
+                </g>
+            </g>
+            <g
+                 id="g24007">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-9"
+                     cx="199.97"
+                     cy="113.98"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MTA"
+                     id="text3119-5"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none">
+                    <path
+                         d="m 188.87,125.47 h -3.06 l -0.45,-14.33 -0.2,-5.5 -1.07,3.2 -3.39,9.14 h -2.16 l -3.24,-8.79 -1.07,-3.55 -0.1,5.75 -0.41,14.08 h -2.95 l 1.13,-22.97 h 3.71 l 3.09,8.64 1,2.92 0.97,-2.92 3.25,-8.64 h 3.81 z"
+                         id="path14077" />
+                    <path
+                         d="m 208.01,105.17 h -6.8 v 20.3 h -3.16 v -20.3 h -6.81 v -2.67 h 16.77 z"
+                         id="path14079" />
+                    <path
+                         d="m 229.14,125.47 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.25 l 7.63,-22.97 h 4.29 z m -5.9,-7.8 -3.89,-12.29 -3.88,12.29 z"
+                         id="path14081" />
+                </g>
+            </g>
+            <g
+                 id="g24014">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-9-3"
+                     cx="361.95"
+                     cy="93.988"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MTA"
+                     id="text3119-5-6"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none">
+                    <path
+                         d="m 350.85,105.48 h -3.06 l -0.45,-14.326 -0.2,-5.502 -1.07,3.199 -3.39,9.141 h -2.16 l -3.24,-8.789 -1.07,-3.551 -0.1,5.748 -0.41,14.08 h -2.95 l 1.13,-22.975 h 3.71 l 3.09,8.649 1,2.918 0.97,-2.918 3.25,-8.649 h 3.81 z"
+                         id="path12498" />
+                    <path
+                         d="m 369.99,85.177 h -6.8 v 20.303 h -3.16 v -20.303 h -6.81 v -2.672 h 16.77 z"
+                         id="path12500" />
+                    <path
+                         d="m 391.12,105.48 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.25 l 7.63,-22.975 h 4.29 z m -5.9,-7.805 -3.89,-12.287 -3.88,12.287 z"
+                         id="path12502" />
+                </g>
+            </g>
+            <g
+                 id="g24021">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-9-3-0"
+                     cx="490.61"
+                     cy="111.32"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MDA"
+                     id="text3119-5-6-1"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none">
+                    <path
+                         d="m 479.51,122.81 h -3.06 l -0.45,-14.33 -0.2,-5.5 -1.07,3.2 -3.39,9.14 h -2.16 l -3.24,-8.79 -1.07,-3.55 -0.1,5.75 -0.41,14.08 h -2.95 l 1.13,-22.975 h 3.71 l 3.09,8.645 1,2.92 0.97,-2.92 3.25,-8.645 h 3.81 z"
+                         id="path10865" />
+                    <path
+                         d="m 498.88,111.07 q 0,1.65 -0.26,3.16 -0.25,1.51 -0.81,2.81 -0.56,1.31 -1.46,2.38 -0.9,1.05 -2.2,1.81 -1.3,0.75 -3.02,1.18 -1.72,0.4 -3.92,0.4 h -4.92 v -22.975 h 5.92 q 5.38,0 8.02,2.775 2.65,2.76 2.65,8.46 z m -3.28,0.23 q 0,-2.45 -0.46,-4.13 -0.46,-1.69 -1.39,-2.73 -0.93,-1.04 -2.34,-1.49 -1.4,-0.48 -3.3,-0.48 h -2.69 v 17.63 h 2.34 q 7.84,0 7.84,-8.8 z"
+                         id="path10867" />
+                    <path
+                         d="m 519.78,122.81 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.25 l 7.63,-22.975 h 4.29 z m -5.9,-7.8 -3.89,-12.29 -3.88,12.29 z"
+                         id="path10869" />
+                </g>
+            </g>
+            <g
+                 id="g24028">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-9-3-4"
+                     cx="459.94"
+                     cy="210.64"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MRA"
+                     id="text3119-5-6-8"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none">
+                    <path
+                         d="m 448.84,222.13 h -3.06 l -0.45,-14.33 -0.2,-5.5 -1.07,3.2 -3.39,9.14 h -2.16 l -3.24,-8.79 -1.07,-3.55 -0.1,5.75 -0.41,14.08 h -2.95 l 1.13,-22.97 h 3.71 l 3.09,8.64 1,2.92 0.97,-2.92 3.25,-8.64 h 3.81 z"
+                         id="path14102" />
+                    <path
+                         d="m 468.18,222.13 h -3.54 l -3.42,-7.35 q -0.39,-0.84 -0.79,-1.39 -0.41,-0.56 -0.88,-0.88 -0.46,-0.33 -1.02,-0.47 -0.55,-0.14 -1.23,-0.14 h -1.48 v 10.23 h -3.13 v -22.97 h 6.15 q 2.01,0 3.45,0.43 1.44,0.44 2.35,1.24 0.94,0.79 1.36,1.91 0.44,1.11 0.44,2.46 0,1.07 -0.32,2.04 -0.32,0.95 -0.95,1.74 -0.61,0.78 -1.55,1.36 -0.91,0.56 -2.1,0.84 0.96,0.33 1.63,1.18 0.69,0.82 1.39,2.21 z m -5.01,-16.66 q 0,-1.85 -1.16,-2.76 -1.14,-0.92 -3.24,-0.92 h -2.95 v 7.6 h 2.53 q 1.11,0 1.99,-0.25 0.89,-0.26 1.51,-0.76 0.63,-0.51 0.97,-1.23 0.35,-0.73 0.35,-1.68 z"
+                         id="path14104" />
+                    <path
+                         d="m 489.11,222.13 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.25 l 7.63,-22.97 h 4.29 z m -5.9,-7.8 -3.89,-12.29 -3.88,12.29 z"
+                         id="path14106" />
+                </g>
+            </g>
+            <g
+                 id="g23993">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-7"
+                     cx="88.358"
+                     cy="326.63"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MUA"
+                     id="text23615"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none">
+                    <path
+                         d="m 77.258,337.96 h -3.059 l -0.457,-14.33 -0.193,-5.5 -1.073,3.2 -3.392,9.14 h -2.162 l -3.235,-8.79 -1.072,-3.55 -0.07,5.75 -0.405,14.08 h -2.953 l 1.125,-22.97 h 3.709 l 3.094,8.64 1.002,2.92 0.967,-2.92 3.252,-8.64 h 3.814 z"
+                         id="path23895" />
+                    <path
+                         d="m 96.014,329.96 q 0,1.9 -0.545,3.45 -0.528,1.53 -1.565,2.62 -1.037,1.07 -2.549,1.67 -1.494,0.58 -3.445,0.58 -2.145,0 -3.639,-0.57 -1.494,-0.56 -2.443,-1.58 -0.932,-1.04 -1.371,-2.48 -0.422,-1.44 -0.422,-3.21 v -15.45 h 3.129 v 15.2 q 0,1.35 0.246,2.37 0.264,1.02 0.844,1.71 0.58,0.68 1.494,1.04 0.932,0.35 2.267,0.35 2.497,0 3.674,-1.44 1.196,-1.45 1.196,-4.06 v -15.17 h 3.129 z"
+                         id="path23897" />
+                    <path
+                         d="m 117.53,337.96 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.252 l 7.632,-22.97 h 4.29 z m -5.91,-7.8 -3.88,-12.29 -3.89,12.29 z"
+                         id="path23899" />
+                </g>
+            </g>
+            <g
+                 id="g24035">
+                <ellipse
+                     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                     id="path1913-7-2"
+                     cx="381.28"
+                     cy="343.95"
+                     rx="35.662"
+                     ry="19.664" />
+                <g
+                     aria-label="MUA"
+                     id="text23615-3"
+                     style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     transform="translate(292.93,17.325)">
+                    <path
+                         d="m 77.258,337.96 h -3.059 l -0.457,-14.33 -0.193,-5.5 -1.073,3.2 -3.392,9.14 h -2.162 l -3.235,-8.79 -1.072,-3.55 -0.07,5.75 -0.405,14.08 h -2.953 l 1.125,-22.97 h 3.709 l 3.094,8.64 1.002,2.92 0.967,-2.92 3.252,-8.64 h 3.814 z"
+                         id="path23895-0" />
+                    <path
+                         d="m 96.014,329.96 q 0,1.9 -0.545,3.45 -0.528,1.53 -1.565,2.62 -1.037,1.07 -2.549,1.67 -1.494,0.58 -3.445,0.58 -2.145,0 -3.639,-0.57 -1.494,-0.56 -2.443,-1.58 -0.932,-1.04 -1.371,-2.48 -0.422,-1.44 -0.422,-3.21 v -15.45 h 3.129 v 15.2 q 0,1.35 0.246,2.37 0.264,1.02 0.844,1.71 0.58,0.68 1.494,1.04 0.932,0.35 2.267,0.35 2.497,0 3.674,-1.44 1.196,-1.45 1.196,-4.06 v -15.17 h 3.129 z"
+                         id="path23897-2" />
+                    <path
+                         d="m 117.53,337.96 h -3.41 l -1.6,-5.01 h -9.56 l -1.62,5.01 h -3.252 l 7.632,-22.97 h 4.29 z m -5.91,-7.8 -3.88,-12.29 -3.89,12.29 z"
+                         id="path23899-1" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

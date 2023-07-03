@@ -1,0 +1,74 @@
+
+@import './template';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Consolas', "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "yu-gothic";
+}
+
+header {
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 3rem;
+  border-bottom: 1px lightgray solid;
+  background-color: rgba(white, 0.95);
+  nav {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    a {
+      margin-right: 1rem;
+      padding-right: 1rem;
+      border-right: 1px lightgray solid;
+      color: #0E6DFE;
+      text-decoration: none;
+      &:last-child {
+        margin-right: 0;
+        padding-right: 0;
+        border-right: none;
+      }
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  #Progress {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    bottom: 0;
+    @include mq(sb) {
+      width: 100px;
+    }
+    @include mq(tb) {
+      width: 200px;
+    }
+    @include mq(fb) {
+      width: 300px;
+    }
+    margin: auto;
+  }
+}
+
+main {
+  padding: 5rem 1rem;
+  min-height: 500px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 5rem;
+  background-color: lightgray;
+}

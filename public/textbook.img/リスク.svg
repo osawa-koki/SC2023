@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="リスク.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7500982043"
+         inkscape:cx="333.289692692043"
+         inkscape:cy="241.968316894423"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <path
+             id="path847-7"
+             style="opacity:1;fill:#ff0000;fill-opacity:0.33463;stroke:#ffffff;stroke-width:1.96548;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+             d="m 305.742625556831,90.4749650779436 a 198.268798828125,139.748931884766 0 0 0 -111.9921875,125.4960937500004 198.268798828125,139.748931884766 0 0 0 111.54296875,125.33984375 198.268798828125,139.748931884766 0 0 0 111.544921875,-125.33984375 198.268798828125,139.748931884766 0 0 0 -111.095703125,-125.4960937500004 z" />
+        <path
+             id="path847-8"
+             style="opacity:1;fill:#00ff00;fill-opacity:0.268482;stroke:#ffffff;stroke-width:1.96548;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+             d="m 218.568797431831,76.2230119529436 a 198.268798828125,139.748931884766 0 0 0 -198.2695312500002,139.7480468750004 198.268798828125,139.748931884766 0 0 0 198.2695312500002,139.75 198.268798828125,139.748931884766 0 0 0 86.724609375,-14.41015625 198.268798828125,139.748931884766 0 0 1 -111.544921875,-125.33984375 198.268798828125,139.748931884766 0 0 1 111.994140625,-125.4960937500004 198.268798828125,139.748931884766 0 0 0 -87.173828125,-14.251953125 z" />
+        <path
+             id="path847-8-5"
+             style="opacity:1;fill:#ffff00;fill-opacity:0.418288;stroke:#ffffff;stroke-width:1.96548;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.499999;paint-order:markers stroke fill;stop-color:#000000"
+             d="m 390.916453681831,76.2230119529436 a 198.268798828125,139.748931884766 0 0 1 198.26953125,139.7480468750004 198.268798828125,139.748931884766 0 0 1 -198.26953125,139.75 198.268798828125,139.748931884766 0 0 1 -86.724609375,-14.41015625 198.268798828125,139.748931884766 0 0 0 111.544921875,-125.33984375 198.268798828125,139.748931884766 0 0 0 -111.994140625,-125.4960937500004 198.268798828125,139.748931884766 0 0 1 87.173828125,-14.251953125 z" />
+        <text
+             xml:space="preserve"
+             style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="75.9900512695312"
+             y="231.198974609375"
+             id="text3501"><tspan
+                 sodipodi:role="line"
+                 id="tspan3499"
+                 x="75.9900512695312"
+                 y="231.198974609375">脅威</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:36px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="448.607666015625"
+             y="231.269287109375"
+             id="text4231"><tspan
+                 sodipodi:role="line"
+                 id="tspan4229"
+                 x="448.607666015625"
+                 y="231.269287109375">脆弱性</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:48px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;fill:#ff0000;fill-opacity:1"
+             x="234.184875488281"
+             y="234.855224609375"
+             id="text4675"><tspan
+                 sodipodi:role="line"
+                 id="tspan4673"
+                 x="234.184875488281"
+                 y="234.855224609375">リスク</tspan></text>
+    </g>
+</svg>
