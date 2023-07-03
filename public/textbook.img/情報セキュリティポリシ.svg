@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="情報セキュリティポリシ.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     inkscape:export-filename="C:\Program Files\XAMPP\htdocs\koko-campus.org\subjects\情報処理安全確保支援士試験\pics\情報セキュリティポリシ.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7501"
+         inkscape:cx="333.29"
+         inkscape:cy="197.97"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="g6128" />
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <g
+             id="g6128"
+             transform="translate(-65.325,7.999)">
+            <path
+                 sodipodi:type="star"
+                 style="fill:#4dccff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 1;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path847-3"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="287.78"
+                 sodipodi:cy="254.31"
+                 sodipodi:r1="202.07"
+                 sodipodi:r2="101.04"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 inkscape:transform-center-y="-50.52"
+                 inkscape:transform-center-x="0.0046119"
+                 d="m 462.78,355.35 -350,-0 175,-303.1 z" />
+            <path
+                 id="path847-8-1-6"
+                 style="fill:#59e210;stroke-width:0.71429;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.42858, 0.71429;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-x="0.0050271"
+                 inkscape:transform-center-y="-36.088"
+                 d="m 412.78,268.75 h -250 l 125,-216.502 z" />
+            <path
+                 id="path847-8-2-6"
+                 style="fill:#fff100;stroke-width:0.42858;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.85716, 0.42858;paint-order:markers stroke fill;stop-color:#000000"
+                 inkscape:transform-center-x="0.0054546"
+                 inkscape:transform-center-y="-21.652"
+                 d="m 362.78,182.15 h -150 l 75,-129.909 z" />
+            <path
+                 style="fill:none;stroke:#000000;stroke-width:1.90251;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 444.64,53.766 c 53.53,1.972 0,101.984 53.27,98.544 -52.78,3.51 1.92,112.23 -53.01,113.89"
+                 id="path8942-3"
+                 sodipodi:nodetypes="ccc" />
+            <text
+                 xml:space="preserve"
+                 style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                 x="513.27"
+                 y="147.31"
+                 id="text11171"><tspan
+                     sodipodi:role="line"
+                     id="tspan11169"
+                     x="513.27"
+                     y="147.31">情報セキュリティ</tspan><tspan
+                     sodipodi:role="line"
+                     x="513.27"
+                     y="171.92"
+                     id="tspan11173">ポリシ</tspan></text>
+        </g>
+        <g
+             id="g6142"
+             transform="translate(-65.325,7.999)">
+            <text
+                 xml:space="preserve"
+                 style="font-size:24px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                 x="144.02"
+                 y="137.32"
+                 id="text3177"><tspan
+                     sodipodi:role="line"
+                     id="tspan3175"
+                     x="144.02"
+                     y="137.32">情報セキュリティ基本方針</tspan></text>
+            <text
+                 xml:space="preserve"
+                 style="font-size:24px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                 x="143.92"
+                 y="230.36"
+                 id="text3177-0"><tspan
+                     sodipodi:role="line"
+                     id="tspan3175-3"
+                     x="143.92"
+                     y="230.36">情報セキュリティ対策基準</tspan></text>
+            <text
+                 xml:space="preserve"
+                 style="font-size:24px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                 x="71.827"
+                 y="323.3"
+                 id="text3177-0-9"><tspan
+                     sodipodi:role="line"
+                     id="tspan3175-3-6"
+                     x="71.827"
+                     y="323.3">情報セキュリティ対策実施手順・規定類</tspan></text>
+        </g>
+    </g>
+</svg>

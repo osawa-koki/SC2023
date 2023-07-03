@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="600" height="700" version="1.1" viewBox="0 0 600 700" xmlns="http://www.w3.org/2000/svg">
+	<path d="m96.924 22.652 211.47 642.25 211.46-642.25" fill="none" stroke="#000" stroke-width="10"/>
+	<g id="g923">
+		<g id="g864">
+			<rect x="14.015" y="55.5" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="72.647" y="79.777" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="72.647" y="79.777">システム要件定義</tspan></text>
+		</g>
+		<g id="g859">
+			<rect x="14.015" y="155.76" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="72.612" y="180" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="72.612" y="180">システム方式設計</tspan></text>
+		</g>
+		<g id="g869">
+			<rect x="14.015" y="256.01" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="54.331" y="280.29" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="54.331" y="280.29">ソフトウェア要件定義</tspan></text>
+		</g>
+		<g id="g874">
+			<rect x="14.015" y="356.27" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="54.295" y="380.51" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="54.295" y="380.51">ソフトウェア方式設計</tspan></text>
+		</g>
+		<g id="g879">
+			<rect x="12.675" y="456.52" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="52.955" y="480.87" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="52.955" y="480.87">ソフトウェア詳細設計</tspan></text>
+		</g>
+		<g id="g884">
+			<rect x="167.33" y="556.78" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="234.4" y="581.51" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="234.4" y="581.51">プログラミング</tspan></text>
+		</g>
+		<g id="g889">
+			<rect x="323.31" y="456.52" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="355.36" y="480.83" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="355.36" y="480.83">ソフトウェア単体テスト</tspan></text>
+		</g>
+		<g id="g894">
+			<rect x="324.64" y="356.27" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="356.69" y="380.62" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="356.69" y="380.62">ソフトウェア結合テスト</tspan></text>
+		</g>
+		<g id="g899">
+			<rect x="324.64" y="256.01" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="329.69" y="280.43" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="329.69" y="280.43">ソフトウェア適格性確認テスト</tspan></text>
+		</g>
+		<g id="g904">
+			<rect x="324.64" y="155.76" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="375.01" y="180.11" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="375.01" y="180.11">システム結合テスト</tspan></text>
+		</g>
+		<g id="g909">
+			<rect x="324.64" y="55.505" width="262.6" height="35.617" fill="#fff" stop-color="#000000" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96451" style="paint-order:markers stroke fill"/>
+			<text x="348.01" y="79.923" font-family="Consolas" font-size="18px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="348.01" y="79.923">システム適格性確認テスト</tspan></text>
+		</g>
+	</g>
+	<g fill="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.4632">
+		<path d="m317 64.2v18.9l-29-9.4z" stop-color="#000000" style="paint-order:markers stroke fill"/>
+		<path d="m317 265v19l-29-9z" stop-color="#000000" style="paint-order:markers stroke fill"/>
+		<path d="m317 366v19l-29-9z" stop-color="#000000" style="paint-order:markers stroke fill"/>
+		<path d="m317 466v19l-29-9z" stop-color="#000000" style="paint-order:markers stroke fill"/>
+		<path d="m317 165v19l-29-9z" stop-color="#000000" style="paint-order:markers stroke fill"/>
+	</g>
+</svg>

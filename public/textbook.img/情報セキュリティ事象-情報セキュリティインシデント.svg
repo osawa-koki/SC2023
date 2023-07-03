@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="情報セキュリティ事象-情報セキュリティインシデント.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     inkscape:export-filename="C:\Program Files\XAMPP\htdocs\koko-campus.org\subjects\情報処理安全確保支援士試験\pics\情報セキュリティ事象-情報セキュリティインシデント.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7501"
+         inkscape:cx="393.28"
+         inkscape:cy="348.62"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1" />
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <path
+             id="rect847"
+             style="opacity:0.6319;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1,1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000;stroke-miterlimit:4"
+             d="m 82.59,84.012 h 426.74 c 16.2,0 29.23,14.33 29.23,32.128 v 202.33 c 0,17.8 -13.03,32.13 -29.23,32.13 h -426.74 c -16.199,0 -29.24,-14.33 -29.24,-32.13 v -202.33 c 0,-17.798 13.041,-32.128 29.24,-32.128 z" />
+        <path
+             id="rect847-7"
+             style="opacity:0.6319;fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:2;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+             d="m 241.27,196.89 h 258.68 c 9.82,0 17.71,7.42 17.71,16.65 v 104.85 c 0,9.22 -7.89,16.65 -17.71,16.65 h -258.68 c -9.82,0 -17.72,-7.43 -17.72,-16.65 v -104.85 c 0,-9.23 7.9,-16.65 17.72,-16.65 z" />
+        <g
+             id="g30543">
+            <rect
+                 style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.95011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.97505, 1.97505;stroke-dashoffset:3.95011;paint-order:markers stroke fill;stop-color:#000000"
+                 id="rect2704"
+                 width="268.04"
+                 height="56.994"
+                 x="109.93"
+                 y="54.431" />
+            <text
+                 xml:space="preserve"
+                 style="font-size:24px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;stroke-width:1.2574"
+                 x="124.25"
+                 y="92.015"
+                 id="text2380"><tspan
+                     sodipodi:role="line"
+                     id="tspan2378"
+                     x="124.25"
+                     y="92.015"
+                     style="stroke-width:1.2574">情報セキュリティ事象</tspan></text>
+        </g>
+        <g
+             id="g30553">
+            <rect
+                 style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.21992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.10995, 2.10995;stroke-dashoffset:4.21992;paint-order:markers stroke fill;stop-color:#000000"
+                 id="rect2704-5"
+                 width="208.05"
+                 height="83.804"
+                 x="269.89"
+                 y="158.89" />
+            <text
+                 xml:space="preserve"
+                 style="font-size:24px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;stroke-width:1.1641"
+                 x="283.19"
+                 y="193.62"
+                 id="text2380-9"><tspan
+                     sodipodi:role="line"
+                     id="tspan2378-2"
+                     x="283.19"
+                     y="193.62"
+                     style="stroke-width:1.1641">情報セキュリティ</tspan><tspan
+                     sodipodi:role="line"
+                     x="283.19"
+                     y="226.42"
+                     id="tspan8582"
+                     style="stroke-width:1.1641">インシデント</tspan></text>
+        </g>
+        <text
+             xml:space="preserve"
+             style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="85.316"
+             y="146.64"
+             id="text11698"><tspan
+                 sodipodi:role="line"
+                 id="tspan11696"
+                 x="85.316"
+                 y="146.64">・情報セキュリティを脅かす危険性がある事象全般</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="247.04"
+             y="267.91"
+             id="text11698-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan11696-4"
+                 x="247.04"
+                 y="267.91">・情報セキュリティ事象のうち、</tspan><tspan
+                 sodipodi:role="line"
+                 x="247.04"
+                 y="292.51"
+                 id="tspan20097">  特にその影響度が高いもの</tspan></text>
+    </g>
+</svg>

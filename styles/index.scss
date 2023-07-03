@@ -1,0 +1,39 @@
+
+@import 'template';
+
+#Index {
+  max-width: 1200px;
+  margin: 0 auto;
+  #MainTopic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+      font-size: 2rem;
+    }
+    #Logo {
+      width: 100%;
+      max-width: 600px;
+    }
+  }
+  #content {
+    margin-top: 3rem;
+    display: grid;
+    @include mq(sb) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include mq(tb) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    @include mq(fb) {
+      grid-template-columns: repeat(6, 1fr);
+    }
+    a {
+      color: #0E6DFE;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

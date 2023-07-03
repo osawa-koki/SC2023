@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="700"
+     viewBox="0 0 600 700"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="V字開発モデル.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="0.7501"
+         inkscape:cx="562.59"
+         inkscape:cy="392.61"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1">
+        <inkscape:grid
+             type="xygrid"
+             id="grid980" />
+    </sodipodi:namedview>
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <path
+             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 96.924,22.652 211.466,642.248 211.46,-642.248"
+             id="path1015" />
+        <g
+             id="g923">
+            <g
+                 id="g864">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-0-7"
+                     width="262.6"
+                     height="35.617"
+                     x="14.015"
+                     y="55.5" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="72.647"
+                     y="79.777"
+                     id="text6491"><tspan
+                         sodipodi:role="line"
+                         id="tspan6489"
+                         x="72.647"
+                         y="79.777">システム要件定義</tspan></text>
+            </g>
+            <g
+                 id="g859">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-6-2"
+                     width="262.6"
+                     height="35.617"
+                     x="14.015"
+                     y="155.76" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="72.612"
+                     y="180"
+                     id="text9101"><tspan
+                         sodipodi:role="line"
+                         id="tspan9099"
+                         x="72.612"
+                         y="180">システム方式設計</tspan></text>
+            </g>
+            <g
+                 id="g869">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-11-4"
+                     width="262.6"
+                     height="35.617"
+                     x="14.015"
+                     y="256.01" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="54.331"
+                     y="280.29"
+                     id="text10893"><tspan
+                         sodipodi:role="line"
+                         id="tspan10891"
+                         x="54.331"
+                         y="280.29">ソフトウェア要件定義</tspan></text>
+            </g>
+            <g
+                 id="g874">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-28-4"
+                     width="262.6"
+                     height="35.617"
+                     x="14.015"
+                     y="356.27" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="54.295"
+                     y="380.51"
+                     id="text13773"><tspan
+                         sodipodi:role="line"
+                         id="tspan13771"
+                         x="54.295"
+                         y="380.51">ソフトウェア方式設計</tspan></text>
+            </g>
+            <g
+                 id="g879">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-28-90-8"
+                     width="262.6"
+                     height="35.617"
+                     x="12.675"
+                     y="456.52" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="52.955"
+                     y="480.87"
+                     id="text15695"><tspan
+                         sodipodi:role="line"
+                         id="tspan15693"
+                         x="52.955"
+                         y="480.87">ソフトウェア詳細設計</tspan></text>
+            </g>
+            <g
+                 id="g884">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-1"
+                     width="262.6"
+                     height="35.617"
+                     x="167.33"
+                     y="556.78" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="234.4"
+                     y="581.51"
+                     id="text17591"><tspan
+                         sodipodi:role="line"
+                         id="tspan17589"
+                         x="234.4"
+                         y="581.51">プログラミング</tspan></text>
+            </g>
+            <g
+                 id="g889">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-28-90"
+                     width="262.6"
+                     height="35.617"
+                     x="323.31"
+                     y="456.52" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="355.36"
+                     y="480.83"
+                     id="text19483"><tspan
+                         sodipodi:role="line"
+                         id="tspan19481"
+                         x="355.36"
+                         y="480.83">ソフトウェア単体テスト</tspan></text>
+            </g>
+            <g
+                 id="g894">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-28"
+                     width="262.6"
+                     height="35.617"
+                     x="324.64"
+                     y="356.27" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="356.69"
+                     y="380.62"
+                     id="text24239"><tspan
+                         sodipodi:role="line"
+                         id="tspan24237"
+                         x="356.69"
+                         y="380.62">ソフトウェア結合テスト</tspan></text>
+            </g>
+            <g
+                 id="g899">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-11"
+                     width="262.6"
+                     height="35.617"
+                     x="324.64"
+                     y="256.01" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="329.69"
+                     y="280.43"
+                     id="text22531"><tspan
+                         sodipodi:role="line"
+                         id="tspan22529"
+                         x="329.69"
+                         y="280.43">ソフトウェア適格性確認テスト</tspan></text>
+            </g>
+            <g
+                 id="g904">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-6"
+                     width="262.6"
+                     height="35.617"
+                     x="324.64"
+                     y="155.76" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="375.01"
+                     y="180.11"
+                     id="text25899"><tspan
+                         sodipodi:role="line"
+                         id="tspan25897"
+                         x="375.01"
+                         y="180.11">システム結合テスト</tspan></text>
+            </g>
+            <g
+                 id="g909">
+                <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.964511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                     id="rect1137-0"
+                     width="262.6"
+                     height="35.617"
+                     x="324.64"
+                     y="55.505" />
+                <text
+                     xml:space="preserve"
+                     style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+                     x="348.01"
+                     y="79.923"
+                     id="text27271"><tspan
+                         sodipodi:role="line"
+                         id="tspan27269"
+                         x="348.01"
+                         y="79.923">システム適格性確認テスト</tspan></text>
+            </g>
+        </g>
+        <g
+             id="g877">
+            <path
+                 sodipodi:type="star"
+                 style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path933"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="762.56"
+                 sodipodi:cy="474.6"
+                 sodipodi:r1="19.088"
+                 sodipodi:r2="9.5439"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="m 779.09,484.14 -33.06,0 16.53,-28.63 z"
+                 inkscape:transform-center-y="-0.002651"
+                 transform="matrix(0,-0.55671,1,0,-168.83,497.23)"
+                 inkscape:transform-center-x="4.772" />
+            <path
+                 sodipodi:type="star"
+                 style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path933-4"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="762.56"
+                 sodipodi:cy="474.6"
+                 sodipodi:r1="19.088"
+                 sodipodi:r2="9.5439"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 inkscape:transform-center-y="-0.002651"
+                 transform="matrix(0,-0.55671,1,0,-168.83,597.79)"
+                 inkscape:transform-center-x="4.772"
+                 d="m 779.09,484.14 -33.06,0 16.53,-28.63 z" />
+            <path
+                 sodipodi:type="star"
+                 style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path933-3"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="762.56"
+                 sodipodi:cy="474.6"
+                 sodipodi:r1="19.088"
+                 sodipodi:r2="9.5439"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 inkscape:transform-center-y="-0.002651"
+                 transform="matrix(0,-0.55671,1,0,-168.83,698.35)"
+                 inkscape:transform-center-x="4.772"
+                 d="m 779.09,484.14 -33.06,0 16.53,-28.63 z" />
+            <path
+                 sodipodi:type="star"
+                 style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path933-9"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="762.56"
+                 sodipodi:cy="474.6"
+                 sodipodi:r1="19.088"
+                 sodipodi:r2="9.5439"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 inkscape:transform-center-y="-0.002651"
+                 transform="matrix(0,-0.55671,1,0,-168.83,798.9)"
+                 inkscape:transform-center-x="4.772"
+                 d="m 779.09,484.14 -33.06,0 16.53,-28.63 z" />
+            <path
+                 sodipodi:type="star"
+                 style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+                 id="path933-1"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="3"
+                 sodipodi:cx="762.56"
+                 sodipodi:cy="474.6"
+                 sodipodi:r1="19.088"
+                 sodipodi:r2="9.5439"
+                 sodipodi:arg1="0.5236"
+                 sodipodi:arg2="1.5708"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 inkscape:transform-center-y="-0.002651"
+                 transform="matrix(0,-0.55671,1,0,-168.83,899.46)"
+                 inkscape:transform-center-x="4.772"
+                 d="m 779.09,484.14 -33.06,0 16.53,-28.63 z" />
+        </g>
+    </g>
+</svg>

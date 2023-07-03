@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     width="600"
+     height="400"
+     viewBox="0 0 600 400"
+     version="1.1"
+     id="svg5"
+     sodipodi:docname="インシデント管理.svg"
+     inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+     inkscape:export-filename="C:\Program Files\XAMPP\htdocs\koko-campus.org\subjects\情報処理安全確保支援士試験\pics\インシデント管理.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+         id="namedview7"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:document-units="px"
+         showgrid="false"
+         units="px"
+         width="600px"
+         inkscape:zoom="1.0608"
+         inkscape:cx="368.59"
+         inkscape:cy="247.45"
+         inkscape:window-width="1920"
+         inkscape:window-height="1009"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="layer1">
+        <inkscape:grid
+             type="xygrid"
+             id="grid24129" />
+    </sodipodi:namedview>
+    <defs
+         id="defs2" />
+    <g
+         inkscape:label="レイヤー 1"
+         inkscape:groupmode="layer"
+         id="layer1">
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="27.329" />
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847-6"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="90.921" />
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847-8"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="154.51" />
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847-0"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="218.11" />
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847-5"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="281.7" />
+        <rect
+             style="fill:#ffffff;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:2;paint-order:markers stroke fill;stop-color:#000000"
+             id="rect847-2"
+             width="309.29"
+             height="38.662"
+             x="35.987"
+             y="345.29" />
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="49.99"
+             y="54.663"
+             id="text7089"><tspan
+                 sodipodi:role="line"
+                 id="tspan7087"
+                 x="49.99"
+                 y="54.663">インシデント予防・対応準備</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="49.99"
+             y="118.37"
+             id="text9883"><tspan
+                 sodipodi:role="line"
+                 id="tspan9881"
+                 x="49.99"
+                 y="118.37">インシデント検知・連絡受付</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="49.99"
+             y="182.16"
+             id="text12553"><tspan
+                 sodipodi:role="line"
+                 id="tspan12551"
+                 x="49.99"
+                 y="182.16">インシデントのトリアージ</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="50.85"
+             y="245.43"
+             id="text14757"><tspan
+                 sodipodi:role="line"
+                 id="tspan14755"
+                 x="50.85"
+                 y="245.43">影響範囲の特定</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="49.99"
+             y="309.61"
+             id="text17139"><tspan
+                 sodipodi:role="line"
+                 id="tspan17137"
+                 x="49.99"
+                 y="309.61">インシデントレスポンス</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:20px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none"
+             x="49.99"
+             y="373.28"
+             id="text19263"><tspan
+                 sodipodi:role="line"
+                 id="tspan19261"
+                 x="49.99"
+                 y="373.28">インシデントのクローズ</tspan></text>
+        <path
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 375,85 h 15 v 240 h -15"
+             id="path24164" />
+        <path
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 375,20 h 90 v 370 h -90"
+             id="path24279" />
+        <text
+             xml:space="preserve"
+             style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;writing-mode:tb-rl"
+             x="403.47"
+             y="96.149"
+             id="text27833"><tspan
+                 sodipodi:role="line"
+                 id="tspan27831"
+                 x="132.91"
+                 y="366.71">インシデントハンドリング</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:none;writing-mode:tb-rl"
+             x="481.7"
+             y="129.15"
+             id="text29663"><tspan
+                 sodipodi:role="line"
+                 id="tspan29661"
+                 x="107.46"
+                 y="503.39">インシデント管理</tspan></text>
+    </g>
+</svg>
