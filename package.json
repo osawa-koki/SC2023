@@ -5,8 +5,8 @@
     "build": "next build && next export -o ./dist",
     "start": "next start",
     "type-check": "tsc",
-    "lint:check": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:check": "eslint . --ext .ts,.tsx",
+    "lint:fix": "eslint . --fix --ext .ts,.tsx"
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
