@@ -4,6 +4,7 @@
     "dev": "next",
     "build": "next build && next export -o ./dist",
     "start": "next start",
+    "test": "exit 0",
     "type-check": "tsc",
     "lint:check": "eslint . --ext .ts,.tsx",
     "lint:fix": "eslint . --fix --ext .ts,.tsx"
