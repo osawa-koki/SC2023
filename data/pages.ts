@@ -42,14 +42,14 @@ const _pages = [
   '開発プロセス・手法',
   'サービスマネジメント',
   'システム監査',
-  '補足',
-];
+  '補足'
+]
 
-type Page = {
-  index: number;
-  title: string;
-};
+interface Page {
+  index: number
+  title: string
+}
 
-const pages: Page[] = _pages.map((title, index) => ({ index, title }));
+const pages: Page[] = _pages.map((title, index) => ({ index, title }))
 
-export { pages };
+export { pages }

@@ -1,9 +1,12 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react'
+import { type AppProps } from 'next/app'
 
-import '../styles/Layout.scss';
-import '../styles/index.scss';
-import '../styles/textbook.scss';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
-export default function MyApp({ Component, pageProps }) {
+import '../styles/Layout.scss'
+import '../styles/index.scss'
+import '../styles/textbook.scss'
+
+export default function MyApp ({ Component, pageProps }: AppProps): JSX.Element {
   return <Component {...pageProps} />
 }

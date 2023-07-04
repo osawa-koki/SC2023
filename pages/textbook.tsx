@@ -1,51 +1,51 @@
-import React, { useState, useEffect } from 'react';
-import Button from 'react-bootstrap/Button';
+import React, { useState, useEffect } from 'react'
+import Button from 'react-bootstrap/Button'
 
-import Layout from '../components/Layout';
-import { pages } from '../data/pages';
-import { isProd, Setting } from '../common/Setting';
+import Layout from '../components/Layout'
+import { pages } from '../data/pages'
+import { isProd, Setting } from '../common/Setting'
 
-const IndexPage = () => {
-
-  let [Index, setIndex] = useState(0);
-  let [Html, setHtml] = useState('');
-  let [Menu, setMenu] = useState(false);
+const IndexPage = (): JSX.Element => {
+  const [Index, setIndex] = useState(0)
+  const [Html, setHtml] = useState('')
+  const [Menu, setMenu] = useState(false)
 
   useEffect(() => {
-    PutHtml();
-  }, [Index]);
+    PutHtml().then(() => {}).catch(() => {})
+  }, [Index])
 
-  function SetPageOnUri(page: number) {
-    history.pushState(null, '', `?page=${page}`);
+  function SetPageOnUri (page: number): void {
+    history.pushState(null, '', `?page=${page}`)
   }
 
-  async function PutHtml() {
+  async function PutHtml (): Promise<void> {
     // Pageパラメタからページ番号を取得
-    const uri = new URL(window.location.href);
-    const page = uri.searchParams.get('page');
-    let page_number = 0;
+    const uri = new URL(window.location.href)
+    const page = uri.searchParams.get('page')
+    let pageNumber = 0
     // ページが有効であれば
-    if (page && !isNaN(Number(page)) && Number(page) >= 0 && Number(page) < pages.length) {
-      page_number = Number(page);
-      setIndex(page_number);
+    if (page != null && !isNaN(Number(page)) && Number(page) >= 0 && Number(page) < pages.length) {
+      pageNumber = Number(page)
+      setIndex(pageNumber)
     } else {
-      SetPageOnUri(page_number); // TODO: URLパラメタが更新されない。
+      SetPageOnUri(pageNumber) // TODO: URLパラメタが更新されない。
     }
-    let title = pages[page_number].title;
-    let prefix = isProd ? Setting.IMG_ROOT_PATH: '';
+    const title = pages[pageNumber].title
+    const prefix = isProd ? Setting.IMG_ROOT_PATH : ''
     try {
       await fetch(`${prefix}/textbook/${title}.html`)
-      .then(response => response.text())
-      .then(text => {
-        if (isProd) {
-          setHtml(text);
-        } else {
-          setHtml(text.replaceAll('/SC2023/textbook.img', '/textbook.img'));
-        }
-      });
+        .then(async response => await response.text())
+        .then(text => {
+          if (isProd) {
+            setHtml(text)
+          } else {
+            setHtml(text.replaceAll('/SC2023/textbook.img', '/textbook.img'))
+          }
+        })
       await fetch(`${prefix}/textbook.script/${title}.js`)
-      .then(response => response.text())
-      .then(text => eval(text));
+        .then(async response => await response.text())
+        // eslint-disable-next-line no-eval
+        .then(text => eval(text))
     } catch (error) {}
   }
 
@@ -56,8 +56,8 @@ const IndexPage = () => {
         <div dangerouslySetInnerHTML={ { __html: Html } } />
       </div>
       <div>
-        {Index > 0 && <Button id='ButtonPrev' variant="success" onClick={() => {setIndex(Index - 1); SetPageOnUri(Index - 1); window.scroll({ top: 0, behavior: 'smooth' });}}>前へ</Button>}
-        {Index < pages.length - 1 && <Button id='ButtonNext' variant="primary" onClick={() => {setIndex(Index + 1); SetPageOnUri(Index + 1); window.scroll({ top: 0, behavior: 'smooth' })}}>次へ</Button>}
+        {Index > 0 && <Button id='ButtonPrev' variant="success" onClick={() => { setIndex(Index - 1); SetPageOnUri(Index - 1); window.scroll({ top: 0, behavior: 'smooth' }) }}>前へ</Button>}
+        {Index < pages.length - 1 && <Button id='ButtonNext' variant="primary" onClick={() => { setIndex(Index + 1); SetPageOnUri(Index + 1); window.scroll({ top: 0, behavior: 'smooth' }) }}>次へ</Button>}
       </div>
       {Menu && <div id='Menu'>
         <ul>
@@ -66,18 +66,18 @@ const IndexPage = () => {
               <li
                 key={index}
                 className={index === Index ? 'active' : ''}
-                onClick={() => {setIndex(index); SetPageOnUri(index); window.scroll({ top: 0, behavior: 'smooth' });}}
+                onClick={() => { setIndex(index); SetPageOnUri(index); window.scroll({ top: 0, behavior: 'smooth' }) }}
               >
                 {page.title}
               </li>
             )
           })}
         </ul>
-        <Button id='ButtonCloser' variant="secondary" size='sm' onClick={() => setMenu(false)}>閉じる</Button>
+        <Button id='ButtonCloser' variant="secondary" size='sm' onClick={() => { setMenu(false) }}>閉じる</Button>
       </div>}
-      {!Menu && <Button id='ButtonMenu' variant="secondary" onClick={() => setMenu(true)}>メニュー</Button>}
+      {!Menu && <Button id='ButtonMenu' variant="secondary" onClick={() => { setMenu(true) }}>メニュー</Button>}
     </Layout>
-  );
+  )
 }
 
-export default IndexPage;
+export default IndexPage

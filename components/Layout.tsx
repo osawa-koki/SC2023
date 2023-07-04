@@ -1,18 +1,18 @@
-import React, { ReactNode } from 'react';
-import Link from 'next/link';
-import Head from 'next/head';
-import ProgressBar from 'react-bootstrap/ProgressBar';
-import { Setting } from '../common/Setting';
+import React, { type ReactNode } from 'react'
+import Link from 'next/link'
+import Head from 'next/head'
+import ProgressBar from 'react-bootstrap/ProgressBar'
+import { Setting } from '../common/Setting'
 
-type Props = {
-  children?: ReactNode,
-  title?: string,
-  progress?: number,
-};
+interface Props {
+  children?: ReactNode
+  title?: string
+  progress?: number
+}
 
-const default_title = '情報処理安全確保支援士試験対策';
+const defaultTitle = '情報処理安全確保支援士試験対策'
 
-const Layout = ({ children, title = default_title, progress }: Props) => (
+const Layout = ({ children, title = defaultTitle, progress }: Props): JSX.Element => (
   <div>
     <Head>
       <title>{title}</title>
@@ -33,6 +33,6 @@ const Layout = ({ children, title = default_title, progress }: Props) => (
     </main>
     <footer>🥺 SC2023 (情報処理安全確保支援士試験対策) 🥺</footer>
   </div>
-);
+)
 
-export default Layout;
+export default Layout
