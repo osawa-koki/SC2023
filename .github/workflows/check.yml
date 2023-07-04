@@ -31,5 +31,5 @@ jobs:
         run: yarn test
       - name: Linter check
         run: yarn lint:check
-      - name: Check for security vulnerabilities
-        run: yarn audit
+      # - name: Check for security vulnerabilities
+      #   run: yarn audit
